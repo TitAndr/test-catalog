@@ -1,0 +1,21 @@
+:root {
+  --font-size: 16px;
+}
+
+html {
+  font-size: var(--font-size);
+}
+
+body {
+  background: #ffffff;
+  color: #182a42;
+}
+
+html,
+body,
+input,
+button,
+select,
+textarea {
+  font-family: var(--font-family-base);
+}

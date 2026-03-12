@@ -1,0 +1,8 @@
+@import '@fontsource/afacad/400.css';
+@import '@fontsource/afacad/500.css';
+@import '@fontsource/afacad/700.css';
+
+:root {
+	--font-family-base: 'Afacad', Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
